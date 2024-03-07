@@ -1,0 +1,4 @@
+### Config
+- neovim
+- hyper
+- zsh
